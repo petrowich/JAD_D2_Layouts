@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Домашка 2</string>
+    <string name="mColor_iBlack">Чёрный</string>
+    <string name="mColor_iWhite">Белый</string>
+    <string name="mColor_iGreen">Зелёный</string>
+    <string name="mColor_iBlue">Синий</string>
+    <string name="mColor_iRed">Красный</string>
 </resources>
